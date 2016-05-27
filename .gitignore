@@ -1,0 +1,11 @@
+#files
+*.so
+*.o
+*.log
+#folder
+#
+bin/
+build
+.idea
+#macos
+*.DS_Store
