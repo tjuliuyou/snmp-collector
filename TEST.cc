@@ -17,7 +17,7 @@ int main() {
   opt.name = "systemUptime";
   opt.oid = ".1.3.6.1.6.3.10.2.1.3.0";
 
-  Session session("116.213.79.50","cnlink");
+  Session session("192.168.21.202","public");
 
   nlohmann::json j;
 
